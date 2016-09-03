@@ -1,0 +1,11 @@
+{
+  "name": "cynthia",
+  "version": "1.0.0",
+  "description": "Release Manager bot",
+  "main": "index.js",
+  "author": "Nicolas Palermo",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
